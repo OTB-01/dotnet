@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Enter your name");
+
+var name = Console.ReadLine();
+var currenttime = DateTime.Now;
+
+Console.WriteLine($"Welcome {name}, it's {currenttime}");
+
+

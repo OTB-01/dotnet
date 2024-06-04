@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yousef\\OneDrive\\VS projects\\FirstConsoleApp\\FirstConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\FirstConsoleApp\\FirstConsoleApp.csproj",
       "projectName": "FirstConsoleApp",
-      "projectPath": "C:\\Users\\yousef\\OneDrive\\VS projects\\FirstConsoleApp\\FirstConsoleApp.csproj",
+      "projectPath": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\FirstConsoleApp\\FirstConsoleApp.csproj",
       "packagesPath": "C:\\Users\\yousef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yousef\\OneDrive\\VS projects\\FirstConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\FirstConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yousef\\AppData\\Roaming\\NuGet\\NuGet.Config",
