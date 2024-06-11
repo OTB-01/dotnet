@@ -19,18 +19,21 @@ class Program
     private static void Battle(Unit player, Unit enemy)
     {
         int turn = 0;
-        while (player.Hp > 0 || enemy.Hp > 0)
+        while (!player.isDead && !enemy.isDead)
         {
             Console.WriteLine($"\n-------- Turn {++turn} --------");
             Console.WriteLine($" {player.UnitName} HP: {player.Hp}");
             Console.WriteLine($" {enemy.UnitName} HP: {enemy.Hp}");
-            
+
             PlayerTurn(player, enemy);
             System.Threading.Thread.Sleep(1000); // 1 second delay
+            if (player.isDead || enemy.isDead) { break; }
+
             EnemyTurn(player, enemy);
             System.Threading.Thread.Sleep(1000); // 1 second delay
-            
-            if (player.isDead || enemy.isDead){break;}
+            if (player.isDead || enemy.isDead) { break; }
+
+
         }
     }
 
@@ -40,7 +43,7 @@ class Program
 
         Random random = new Random(); // determen whither the enemy attacks or heal
         int enemychoice = random.Next(1, 3);
-        
+
         if (enemychoice == 1)
         {
             enemy.Attack(player);

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TurnBasedGame
-build_property.ProjectDir = C:\Users\yousef\OneDrive\VS projects\StartingWith_dontnet\TurnBasedGame\
+build_property.ProjectDir = C:\Users\yousef\OneDrive\VS projects\StartingWith_dontnet\dotnet\TurnBasedGame\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\TurnBasedGame\\TurnBasedGame.csproj",
+      "projectUniqueName": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\dotnet\\TurnBasedGame\\TurnBasedGame.csproj",
       "projectName": "TurnBasedGame",
-      "projectPath": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\TurnBasedGame\\TurnBasedGame.csproj",
+      "projectPath": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\dotnet\\TurnBasedGame\\TurnBasedGame.csproj",
       "packagesPath": "C:\\Users\\yousef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\TurnBasedGame\\obj\\",
+      "outputPath": "C:\\Users\\yousef\\OneDrive\\VS projects\\StartingWith_dontnet\\dotnet\\TurnBasedGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yousef\\AppData\\Roaming\\NuGet\\NuGet.Config",
