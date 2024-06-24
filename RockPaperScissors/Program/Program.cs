@@ -15,8 +15,8 @@ class Program
         {
             Console.WriteLine
                 (
-                "\n1- rock,"
-                + "\n2- paper,"
+                "\n1- rock"
+                + "\n2- paper"
                 + "\n3- for scissors"
                 + "\nenter your choice: (1-3)");
 
